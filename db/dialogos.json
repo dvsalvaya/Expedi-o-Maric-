@@ -1,0 +1,212 @@
+{
+  "npcs": [
+    {
+      "id": "npc_pescador",
+      "nome": "Mestre Seu Zé (Pescador)",
+      "descricao": "Um pescador experiente que gosta de falar sobre o mar, as lagoas e a vida de quem pesca.",
+      "localizacao_sugerida": "Orla de Araçatiba / Canal de Ponta Negra",
+      "falas": [
+        {
+          "texto": "Oi! A pesca artesanal faz parte da vida de muitas famílias de Maricá.",
+          "tipo": "fato",
+          "fonte": {
+            "titulo": "Maricá é reconhecida como Capital Estadual da Pesca Artesanal - Codemar",
+            "url": "https://codemar-sa.com.br/marica-e-reconhecida-como-capital-estadual-da-pesca-artesanal-orgulho-e-compromisso-com-quem-vive-do-mar/"
+          }
+        },
+        {
+          "texto": "Maricá recebeu o título de Capital Estadual da Pesca Artesanal. É um reconhecimento a quem vive dessa atividade!",
+          "tipo": "fato",
+          "fonte": {
+            "titulo": "Maricá é reconhecida como Capital Estadual da Pesca Artesanal - Codemar",
+            "url": "https://codemar-sa.com.br/marica-e-reconhecida-como-capital-estadual-da-pesca-artesanal-orgulho-e-compromisso-com-quem-vive-do-mar/"
+          }
+        },
+        {
+          "texto": "A pesca artesanal sustenta famílias e movimenta a economia local. É importante valorizar quem trabalha nessa atividade!",
+          "tipo": "fato",
+          "fonte": {
+            "titulo": "Maricá é reconhecida como Capital Estadual da Pesca Artesanal - Codemar",
+            "url": "https://codemar-sa.com.br/marica-e-reconhecida-como-capital-estadual-da-pesca-artesanal-orgulho-e-compromisso-com-quem-vive-do-mar/"
+          }
+        },
+        {
+          "texto": "Maricá tem lagoas, rios, canais e praias. Esses ambientes fazem parte da paisagem e da vida de quem pesca.",
+          "tipo": "fato",
+          "fonte": {
+            "titulo": "Geoparque Costões e Lagunas - Maricá",
+            "url": "https://www.geoparquecostoeselagunas.com/marica/"
+          }
+        },
+        {
+          "texto": "Conta a tradição da pesca: os “riscadores da barra” ajudavam a escolher onde abrir uma passagem na areia para a água da lagoa passar.",
+          "tipo": "tradicao_oral",
+          "fonte": {
+            "titulo": "Quando a gente das areias... - Instituto Federal Fluminense",
+            "url": "https://portal1.iff.edu.br/nossos-campi/marica/cursos/pos-graduacao-1/trabalhos-de-conclusao-de-curso/artigo-pos-iff-veronica-gomes-de-aquino.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "npc_indio",
+      "nome": "Karu (Guardião da Natureza)",
+      "descricao": "Um personagem fictício que convida a conhecer a natureza de Maricá e respeitar a história dos povos indígenas.",
+      "localizacao_sugerida": "Restinga / Entrada da mata no Espraiado",
+      "falas": [
+        {
+          "texto": "Antes da chegada dos europeus, povos indígenas já viviam nesta região.",
+          "tipo": "fato",
+          "fonte": {
+            "titulo": "Geoparque Costões e Lagunas - Maricá",
+            "url": "https://www.geoparquecostoeselagunas.com/marica/"
+          }
+        },
+        {
+          "texto": "Maricá tem praias, lagoas, rios, serras e áreas de restinga. Cada ambiente é importante para a natureza!",
+          "tipo": "fato",
+          "fonte": {
+            "titulo": "Geoparque Costões e Lagunas - Maricá",
+            "url": "https://www.geoparquecostoeselagunas.com/marica/"
+          }
+        },
+        {
+          "texto": "Conta a tradição oral que o Boitatá é uma cobra de fogo que protege as matas. É uma lenda, não um animal comprovado.",
+          "tipo": "tradicao_oral",
+          "fonte": {
+            "titulo": "Maricá e o encanto das lendas",
+            "url": "https://rjcidades.com.br/marica-rj-o-encanto-das-lendas-que-permeiam-sua-historia/"
+          }
+        }
+      ]
+    },
+    {
+      "id": "npc_historiador",
+      "nome": "Professor Bernardo (Historiador)",
+      "descricao": "Um professor que conta histórias de Maricá com palavras simples e convida todo mundo a conhecer seus lugares antigos.",
+      "localizacao_sugerida": "Praça Central / Casa de Cultura",
+      "falas": [
+        {
+          "texto": "Em 1574, terras da região começaram a ser entregues aos colonizadores em lotes chamados sesmarias.",
+          "tipo": "fato",
+          "fonte": {
+            "titulo": "História de Maricá - Maricá Info",
+            "url": "https://maricainfo.com/conheca-marica/historia-de-marica/"
+          }
+        },
+        {
+          "texto": "Em 1814, Maricá recebeu o nome de Vila de Santa Maria de Maricá.",
+          "tipo": "fato",
+          "fonte": {
+            "titulo": "Geoparque Costões e Lagunas - Maricá",
+            "url": "https://www.geoparquecostoeselagunas.com/marica/"
+          }
+        },
+        {
+          "texto": "A pedra fundamental da Igreja Matriz de Nossa Senhora do Amparo foi colocada em 1788. A construção continuou por muitos anos.",
+          "tipo": "fato",
+          "fonte": {
+            "titulo": "Igreja Matriz Nossa Senhora do Amparo - iPatrimônio",
+            "url": "https://www.ipatrimonio.org/marica-igreja-matriz-nossa-senhora-do-amparo/"
+          }
+        },
+        {
+          "texto": "A ferrovia de Maricá ajudava a levar produtos da região para outras cidades.",
+          "tipo": "fato",
+          "fonte": {
+            "titulo": "Maricá - Prefeitura de Maricá",
+            "url": "https://www.marica.rj.gov.br/marica/"
+          }
+        }
+      ]
+    },
+    {
+      "id": "npc_crianca",
+      "nome": "Léo (Criança Curiosa)",
+      "descricao": "Um garoto curioso que adora descobrir fatos sobre a natureza e as ideias criadas em Maricá.",
+      "localizacao_sugerida": "Perto do ponto de ônibus / Praça do Centro",
+      "falas": [
+        {
+          "texto": "Sabia que Charles Darwin passou pela região em 1832? Ele observou a natureza durante sua viagem.",
+          "tipo": "fato",
+          "fonte": {
+            "titulo": "Geoparque Costões e Lagunas - Maricá",
+            "url": "https://www.geoparquecostoeselagunas.com/marica/"
+          }
+        },
+        {
+          "texto": "Na praia de Jaconé existem beachrocks: rochas de praia com milhares de anos. Darwin descreveu essas formações!",
+          "tipo": "fato",
+          "fonte": {
+            "titulo": "Geoparque Costões e Lagunas - Maricá",
+            "url": "https://www.geoparquecostoeselagunas.com/marica/"
+          }
+        },
+        {
+          "texto": "A Mumbuca é a moeda social de Maricá. Ela ajuda a valorizar o comércio e os serviços da cidade.",
+          "tipo": "fato",
+          "fonte": {
+            "titulo": "Moeda Social Mumbuca - Prefeitura de Maricá",
+            "url": "https://www.marica.rj.gov.br/programa/moeda-social-mumbuca/"
+          }
+        },
+        {
+          "texto": "A Prefeitura informa que uma Mumbuca equivale a um real.",
+          "tipo": "fato",
+          "fonte": {
+            "titulo": "Moeda Social Mumbuca - Prefeitura de Maricá",
+            "url": "https://www.marica.rj.gov.br/programa/moeda-social-mumbuca/"
+          }
+        },
+        {
+          "texto": "Os ônibus municipais gratuitos são conhecidos como Vermelhinhos. Eles ajudam as pessoas a circular por Maricá.",
+          "tipo": "fato",
+          "fonte": {
+            "titulo": "Vermelhinhos - Prefeitura de Maricá",
+            "url": "https://www.marica.rj.gov.br/programa/vermelhinhos/"
+          }
+        }
+      ]
+    },
+    {
+      "id": "npc_vovozinho",
+      "nome": "Vovô Tão (Contador de Causos)",
+      "descricao": "Um senhor simpático que conta histórias de Maricá e lembra que lendas são parte da tradição oral.",
+      "localizacao_sugerida": "Mirante de Ponta Negra / Praça do Espraiado",
+      "falas": [
+        {
+          "texto": "O Farol de Ponta Negra foi inaugurado em 1909. Faróis ajudam as embarcações a se orientar no mar.",
+          "tipo": "fato",
+          "fonte": {
+            "titulo": "Farol de Ponta Negra - Casa Rural Maricá",
+            "url": "https://casaruralmarica.com/farol-de-ponta-negra-um-espetaculo-da-natureza-e-da-historia/"
+          }
+        },
+        {
+          "texto": "Por volta de 1812, pessoas escravizadas que fugiram das fazendas formaram um quilombo na região de Maricá. Elas lutavam por liberdade.",
+          "tipo": "fato",
+          "fonte": {
+            "titulo": "Quilombo de Maricá - Impressões Rebeldes (UFF)",
+            "url": "https://www.historia.uff.br/impressoesrebeldes/revolta/quilombo-de-marica/"
+          }
+        },
+        {
+          "texto": "Conta a tradição oral de Bambuí a história de um Lobisomem. É uma lenda contada por moradores, não um fato comprovado.",
+          "tipo": "tradicao_oral",
+          "fonte": {
+            "titulo": "As lendas e histórias do bairro de Bambuí - Maricá Já",
+            "url": "https://maricaja.com.br/2022/04/14/as-lendas-e-historias-que-habitam-o-bairro-ao-longo-do-tempo/"
+          }
+        },
+        {
+          "texto": "Outra lenda conta que há um tesouro escondido na Pedra de Itaocaia. Histórias assim fazem parte da tradição oral.",
+          "tipo": "tradicao_oral",
+          "fonte": {
+            "titulo": "Maricá e o encanto das lendas",
+            "url": "https://rjcidades.com.br/marica-rj-o-encanto-das-lendas-que-permeiam-sua-historia/"
+          }
+        }
+      ]
+    }
+  ]
+}

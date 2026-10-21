@@ -40,10 +40,11 @@ npm run preview
 ## Estrutura
 
 - `src/` — código do jogo, cenas, personagens e dados usados pelo jogo
-- `assets/maps/` — mapa de teste em JSON do Tiled
+- `assets/mapa/` — texturas de terreno e árvores usadas no mapa de teste
+- `assets/npcs/` — spritesheets dos personagens
 - `db/` — arquivos de conteúdo de referência, como diálogos e perguntas
 - `docs/` — especificação, tarefas e materiais de pesquisa
 
 ## Estado atual
 
-Esta versão ainda é um protótipo em desenvolvimento: usa texturas provisórias, um mapa de teste do Centro, um NPC e perguntas marcadas como teste. Os arquivos em `db/` são material de conteúdo e ainda não são carregados pelo jogo; a execução utiliza os dados de `src/data/`.
+Esta versão ainda é um protótipo em desenvolvimento: o mapa de teste usa terreno e árvores de `assets/mapa/`, e o Professor Bernardo usa `NPC_1.png` de `assets/npcs/`. O jogador ainda usa uma textura provisória. Os arquivos em `db/` são material de conteúdo e ainda não são carregados pelo jogo; a execução utiliza os dados de `src/data/`.

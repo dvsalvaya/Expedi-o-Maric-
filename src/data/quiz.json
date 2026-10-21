@@ -1,0 +1,287 @@
+[
+  {
+    "id": "hist_004",
+    "npc": "bernardo",
+    "categoria": "historia",
+    "dificuldade": "medio",
+    "pergunta": "Em 1814, qual nome Maricá recebeu ao se tornar uma vila?",
+    "alternativas": [
+      "Vila de Nossa Senhora de Jaconé",
+      "Cidade do Rio Mumbuca",
+      "Vila de Ponta Negra",
+      "Vila de Santa Maria de Maricá"
+    ],
+    "resposta_correta": 3,
+    "explicacao": "Em 1814, Maricá passou a se chamar Vila de Santa Maria de Maricá.",
+    "fonte": {
+      "titulo": "Geoparque Costões e Lagunas - Maricá",
+      "url": "https://www.geoparquecostoeselagunas.com/marica/"
+    }
+  },
+  {
+    "id": "patr_001",
+    "npc": "bernardo",
+    "categoria": "patrimonio",
+    "dificuldade": "facil",
+    "pergunta": "Qual igreja histórica fica no Centro de Maricá?",
+    "alternativas": [
+      "Igreja de São José de Jaconé",
+      "Igreja do Farol",
+      "Igreja Matriz de Nossa Senhora do Amparo",
+      "Igreja da Lagoa Azul"
+    ],
+    "resposta_correta": 2,
+    "explicacao": "A Igreja Matriz de Nossa Senhora do Amparo é um importante patrimônio histórico de Maricá.",
+    "fonte": {
+      "titulo": "Igreja Matriz Nossa Senhora do Amparo - iPatrimônio",
+      "url": "https://www.ipatrimonio.org/marica-igreja-matriz-nossa-senhora-do-amparo/"
+    }
+  },
+  {
+    "id": "patr_002",
+    "npc": "bernardo",
+    "categoria": "patrimonio",
+    "dificuldade": "facil",
+    "pergunta": "Como também é chamado o espaço cultural Casa de Cultura de Maricá?",
+    "alternativas": [
+      "Museu do Trem do Brasil",
+      "Museu das Montanhas",
+      "Museu do Futebol",
+      "Museu Histórico de Maricá"
+    ],
+    "resposta_correta": 3,
+    "explicacao": "A Casa de Cultura também é identificada como Museu Histórico de Maricá.",
+    "fonte": {
+      "titulo": "Casa de Cultura - Museu Histórico de Maricá",
+      "url": "https://visite.museus.gov.br/instituicoes/casa-de-cultura-museu-historico-de-marica/"
+    }
+  },
+  {
+    "id": "pers_001",
+    "npc": "leo",
+    "categoria": "personalidades",
+    "dificuldade": "facil",
+    "pergunta": "Qual naturalista passou por Maricá em 1832?",
+    "alternativas": [
+      "Santos Dumont",
+      "Machado de Assis",
+      "Charles Darwin",
+      "Carmen Miranda"
+    ],
+    "resposta_correta": 2,
+    "explicacao": "Charles Darwin visitou a região em 1832 e observou a natureza durante suas viagens.",
+    "fonte": {
+      "titulo": "Geoparque Costões e Lagunas - Maricá",
+      "url": "https://www.geoparquecostoeselagunas.com/marica/"
+    }
+  },
+  {
+    "id": "econ_001",
+    "npc": "leo",
+    "categoria": "economia",
+    "dificuldade": "facil",
+    "pergunta": "O que é a Mumbuca em Maricá?",
+    "alternativas": [
+      "Uma montanha",
+      "Uma moeda social",
+      "Uma estação de trem",
+      "Uma espécie de barco"
+    ],
+    "resposta_correta": 1,
+    "explicacao": "A Mumbuca é uma moeda social usada em Maricá. Ela também ajuda a valorizar o comércio e os serviços locais.",
+    "fonte": {
+      "titulo": "Moeda Social Mumbuca - Prefeitura de Maricá",
+      "url": "https://www.marica.rj.gov.br/programa/moeda-social-mumbuca/"
+    }
+  },
+  {
+    "id": "econ_004",
+    "npc": "leo",
+    "categoria": "economia",
+    "dificuldade": "facil",
+    "pergunta": "Como são conhecidos os ônibus municipais gratuitos de Maricá?",
+    "alternativas": [
+      "Vermelhinhos",
+      "Amarelinhos",
+      "Barquinhos",
+      "Trenzinhos"
+    ],
+    "resposta_correta": 0,
+    "explicacao": "Os ônibus gratuitos do transporte público municipal são conhecidos como Vermelhinhos.",
+    "fonte": {
+      "titulo": "Vermelhinhos - Prefeitura de Maricá",
+      "url": "https://www.marica.rj.gov.br/programa/vermelhinhos/"
+    }
+  },
+  {
+    "id": "cult_002",
+    "npc": "seu_ze",
+    "categoria": "cultura",
+    "dificuldade": "medio",
+    "pergunta": "Qual título Maricá recebeu por sua tradição de pesca artesanal?",
+    "alternativas": [
+      "Capital Mundial dos Trens",
+      "Cidade Nacional dos Vulcões",
+      "Capital do Gelo",
+      "Capital Estadual da Pesca Artesanal"
+    ],
+    "resposta_correta": 3,
+    "explicacao": "Maricá foi reconhecida como Capital Estadual da Pesca Artesanal.",
+    "fonte": {
+      "titulo": "Maricá é reconhecida como Capital Estadual da Pesca Artesanal - Codemar",
+      "url": "https://codemar-sa.com.br/marica-e-reconhecida-como-capital-estadual-da-pesca-artesanal-orgulho-e-compromisso-com-quem-vive-do-mar/"
+    }
+  },
+  {
+    "id": "trad_001",
+    "npc": "seu_ze",
+    "categoria": "tradicoes",
+    "dificuldade": "medio",
+    "pergunta": "Na tradição da pesca artesanal, o que faziam os chamados “riscadores da barra”?",
+    "alternativas": [
+      "Pintavam os barcos de várias cores",
+      "Ajudavam a escolher onde abrir a areia para a água da lagoa passar",
+      "Construíam trilhos para os trens",
+      "Plantavam árvores no fundo do mar"
+    ],
+    "resposta_correta": 1,
+    "explicacao": "Os riscadores da barra usavam seu conhecimento da lagoa para indicar onde abrir uma passagem na areia.",
+    "fonte": {
+      "titulo": "Quando a gente das areias... - Instituto Federal Fluminense",
+      "url": "https://portal1.iff.edu.br/nossos-campi/marica/cursos/pos-graduacao-1/trabalhos-de-conclusao-de-curso/artigo-pos-iff-veronica-gomes-de-aquino.pdf"
+    }
+  },
+  {
+    "id": "nat_005",
+    "npc": "seu_ze",
+    "categoria": "natureza",
+    "dificuldade": "medio",
+    "pergunta": "Em que bairro fica o Costão rochoso que serve de mirante natural?",
+    "alternativas": [
+      "Ponta Negra",
+      "Centro",
+      "Ubatiba",
+      "São José do Imbassaí"
+    ],
+    "resposta_correta": 0,
+    "explicacao": "O Costão de Ponta Negra é um mirante natural de onde se pode observar a paisagem da região.",
+    "fonte": {
+      "titulo": "Geoparque Costões e Lagunas - Maricá",
+      "url": "https://www.geoparquecostoeselagunas.com/marica/"
+    }
+  },
+  {
+    "id": "hist_006",
+    "npc": "vovozao",
+    "categoria": "historia",
+    "dificuldade": "medio",
+    "pergunta": "O que era um quilombo, como o que existiu em Maricá?",
+    "alternativas": [
+      "Uma estação de trem",
+      "Uma comunidade formada por pessoas escravizadas que buscavam liberdade",
+      "Uma escola de navegadores",
+      "Uma festa da cidade"
+    ],
+    "resposta_correta": 1,
+    "explicacao": "O quilombo de Maricá foi formado por pessoas escravizadas que fugiram das fazendas em busca de liberdade.",
+    "fonte": {
+      "titulo": "Quilombo de Maricá - Impressões Rebeldes (UFF)",
+      "url": "https://www.historia.uff.br/impressoesrebeldes/revolta/quilombo-de-marica/"
+    }
+  },
+  {
+    "id": "trad_003",
+    "npc": "vovozao",
+    "categoria": "tradicoes",
+    "dificuldade": "facil",
+    "pergunta": "Segundo a tradição oral, qual personagem aparece nas histórias de Bambuí?",
+    "alternativas": [
+      "Dragão",
+      "Gigante de gelo",
+      "Sereia do deserto",
+      "Lobisomem"
+    ],
+    "resposta_correta": 3,
+    "explicacao": "Moradores de Bambuí contam histórias sobre o Lobisomem. É uma lenda, não um fato comprovado.",
+    "fonte": {
+      "titulo": "As lendas e histórias do bairro de Bambuí - Maricá Já",
+      "url": "https://maricaja.com.br/2022/04/14/as-lendas-e-historias-que-habitam-o-bairro-ao-longo-do-tempo/"
+    }
+  },
+  {
+    "id": "trad_004",
+    "npc": "vovozao",
+    "categoria": "tradicoes",
+    "dificuldade": "facil",
+    "pergunta": "Segundo uma lenda de Itaocaia, o que estaria escondido na Pedra de Itaocaia?",
+    "alternativas": [
+      "Um tesouro",
+      "Uma estação de trem",
+      "Uma cidade submarina",
+      "Uma nave espacial"
+    ],
+    "resposta_correta": 0,
+    "explicacao": "Uma lenda local fala de um tesouro escondido. Histórias assim fazem parte da tradição oral e não são fatos comprovados.",
+    "fonte": {
+      "titulo": "Maricá e o encanto das lendas",
+      "url": "https://rjcidades.com.br/marica-rj-o-encanto-das-lendas-que-permeiam-sua-historia/"
+    }
+  },
+  {
+    "id": "hist_001",
+    "npc": "karu",
+    "categoria": "historia",
+    "dificuldade": "facil",
+    "pergunta": "Antes da chegada dos europeus, quem já vivia na região de Maricá?",
+    "alternativas": [
+      "Povos indígenas",
+      "Viajantes da Antártida",
+      "Moradores de outros planetas",
+      "Povos vikings"
+    ],
+    "resposta_correta": 0,
+    "explicacao": "Povos indígenas já viviam na região antes da chegada dos europeus.",
+    "fonte": {
+      "titulo": "Geoparque Costões e Lagunas - Maricá",
+      "url": "https://www.geoparquecostoeselagunas.com/marica/"
+    }
+  },
+  {
+    "id": "nat_001",
+    "npc": "karu",
+    "categoria": "natureza",
+    "dificuldade": "facil",
+    "pergunta": "Qual conjunto de paisagens naturais existe em Maricá?",
+    "alternativas": [
+      "Praias, lagoas, rios e cachoeiras",
+      "Geleiras e vulcões ativos",
+      "Desertos de areia",
+      "Florestas cobertas de neve"
+    ],
+    "resposta_correta": 0,
+    "explicacao": "Maricá tem praias, lagoas, rios, cachoeiras, trilhas e serras.",
+    "fonte": {
+      "titulo": "Geoparque Costões e Lagunas - Maricá",
+      "url": "https://www.geoparquecostoeselagunas.com/marica/"
+    }
+  },
+  {
+    "id": "trad_002",
+    "npc": "karu",
+    "categoria": "tradicoes",
+    "dificuldade": "facil",
+    "pergunta": "Segundo a tradição oral, qual personagem é contado como uma cobra de fogo que protege a natureza?",
+    "alternativas": [
+      "Lobisomem",
+      "Saci",
+      "Boitatá",
+      "Cuca"
+    ],
+    "resposta_correta": 2,
+    "explicacao": "O Boitatá é uma personagem de lenda. Essa história faz parte da tradição oral e não é um fato comprovado.",
+    "fonte": {
+      "titulo": "Maricá e o encanto das lendas",
+      "url": "https://rjcidades.com.br/marica-rj-o-encanto-das-lendas-que-permeiam-sua-historia/"
+    }
+  }
+]

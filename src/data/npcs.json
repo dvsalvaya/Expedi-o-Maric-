@@ -1,0 +1,161 @@
+[
+  {
+    "id": "bernardo",
+    "nome": "Professor Bernardo",
+    "papel": "Historiador",
+    "area": "centro",
+    "sprite": "npc_bernardo",
+    "falas": [
+      {
+        "texto": "Em 1574, terras da região começaram a ser entregues aos colonizadores em lotes chamados sesmarias.",
+        "tipo": "fato"
+      },
+      {
+        "texto": "Em 1814, Maricá recebeu o nome de Vila de Santa Maria de Maricá.",
+        "tipo": "fato"
+      },
+      {
+        "texto": "A pedra fundamental da Igreja Matriz de Nossa Senhora do Amparo foi colocada em 1788. A construção continuou por muitos anos.",
+        "tipo": "fato"
+      },
+      {
+        "texto": "A ferrovia de Maricá ajudava a levar produtos da região para outras cidades.",
+        "tipo": "fato"
+      }
+    ],
+    "falaConclusao": "Muito bem! Preservar o passado é garantir o futuro de Maricá.",
+    "perguntas": [
+      "hist_004",
+      "patr_001",
+      "patr_002"
+    ]
+  },
+  {
+    "id": "leo",
+    "nome": "Léo",
+    "papel": "Criança curiosa",
+    "area": "centro",
+    "sprite": "npc_leo",
+    "falas": [
+      {
+        "texto": "Sabia que Charles Darwin passou pela região em 1832? Ele observou a natureza durante sua viagem.",
+        "tipo": "fato"
+      },
+      {
+        "texto": "Na praia de Jaconé existem beachrocks: rochas de praia com milhares de anos. Darwin descreveu essas formações!",
+        "tipo": "fato"
+      },
+      {
+        "texto": "A Mumbuca é a moeda social de Maricá. Ela ajuda a valorizar o comércio e os serviços da cidade.",
+        "tipo": "fato"
+      },
+      {
+        "texto": "A Prefeitura informa que uma Mumbuca equivale a um real.",
+        "tipo": "fato"
+      },
+      {
+        "texto": "Os ônibus municipais gratuitos são conhecidos como Vermelhinhos. Eles ajudam as pessoas a circular por Maricá.",
+        "tipo": "fato"
+      }
+    ],
+    "falaConclusao": "Incrível! Maricá é mesmo um laboratório vivo a céu aberto!",
+    "perguntas": [
+      "pers_001",
+      "econ_001",
+      "econ_004"
+    ]
+  },
+  {
+    "id": "seu_ze",
+    "nome": "Seu Zé",
+    "papel": "Pescador",
+    "area": "ponta_negra",
+    "sprite": "npc_seu_ze",
+    "falas": [
+      {
+        "texto": "Oi! A pesca artesanal faz parte da vida de muitas famílias de Maricá.",
+        "tipo": "fato"
+      },
+      {
+        "texto": "Maricá recebeu o título de Capital Estadual da Pesca Artesanal. É um reconhecimento a quem vive dessa atividade!",
+        "tipo": "fato"
+      },
+      {
+        "texto": "A pesca artesanal sustenta famílias e movimenta a economia local. É importante valorizar quem trabalha nessa atividade!",
+        "tipo": "fato"
+      },
+      {
+        "texto": "Maricá tem lagoas, rios, canais e praias. Esses ambientes fazem parte da paisagem e da vida de quem pesca.",
+        "tipo": "fato"
+      },
+      {
+        "texto": "Conta a tradição da pesca: os “riscadores da barra” ajudavam a escolher onde abrir uma passagem na areia para a água da lagoa passar.",
+        "tipo": "tradicao_oral"
+      }
+    ],
+    "falaConclusao": "Valeu, parceiro! O respeito ao mar e às tradições vem em primeiro lugar.",
+    "perguntas": [
+      "cult_002",
+      "trad_001",
+      "nat_005"
+    ]
+  },
+  {
+    "id": "vovozao",
+    "nome": "Vovozão",
+    "papel": "Contador de causos",
+    "area": "itaocaia",
+    "sprite": "npc_vovozao",
+    "falas": [
+      {
+        "texto": "O Farol de Ponta Negra foi inaugurado em 1909. Faróis ajudam as embarcações a se orientar no mar.",
+        "tipo": "fato"
+      },
+      {
+        "texto": "Por volta de 1812, pessoas escravizadas que fugiram das fazendas formaram um quilombo na região de Maricá. Elas lutavam por liberdade.",
+        "tipo": "fato"
+      },
+      {
+        "texto": "Conta a tradição oral de Bambuí a história de um Lobisomem. É uma lenda contada por moradores, não um fato comprovado.",
+        "tipo": "tradicao_oral"
+      },
+      {
+        "texto": "Outra lenda conta que há um tesouro escondido na Pedra de Itaocaia. Histórias assim fazem parte da tradição oral.",
+        "tipo": "tradicao_oral"
+      }
+    ],
+    "falaConclusao": "Você é bom de memória! Os causos do nosso povo continuarão vivos.",
+    "perguntas": [
+      "hist_006",
+      "trad_003",
+      "trad_004"
+    ]
+  },
+  {
+    "id": "karu",
+    "nome": "Karu",
+    "papel": "Índio Tupi",
+    "area": "lagoa",
+    "sprite": "npc_karu",
+    "falas": [
+      {
+        "texto": "Antes da chegada dos europeus, povos indígenas já viviam nesta região.",
+        "tipo": "fato"
+      },
+      {
+        "texto": "Maricá tem praias, lagoas, rios, serras e áreas de restinga. Cada ambiente é importante para a natureza!",
+        "tipo": "fato"
+      },
+      {
+        "texto": "Conta a tradição oral que o Boitatá é uma cobra de fogo que protege as matas. É uma lenda, não um animal comprovado.",
+        "tipo": "tradicao_oral"
+      }
+    ],
+    "falaConclusao": "Obrigado! A harmonia com a natureza e as raízes é o caminho.",
+    "perguntas": [
+      "hist_001",
+      "nat_001",
+      "trad_002"
+    ]
+  }
+]
